@@ -53,4 +53,5 @@ Administrador   Administra personal, informes y facturacion.
 ________________________________________________________________________________
 Lo representamos a t ravés del siguiente diagrama de casos de uso:
 
- [alt text](D:\Usuarios\daw112\Documents\GitHub\darioRETO\diagrama.png)
+ [alt text](diagrama.png)
+
