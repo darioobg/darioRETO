@@ -1,5 +1,5 @@
 # DARIORETO
-# Índice
+## Índice
 
 * Documentación de la Aplicacion de Gestión Veterinaria
    - [Índice](README.md)
@@ -9,6 +9,6 @@
    - [Contribución]()
    - [Subvención]()
 
-# Introducción
+## Introducción
 
 El sistema de Gestión Veterinaria desarrollado por el alumnado del **IES MIGUEL Herrero Pereda** permite a pacientes, médicos y administradores gestionar las operaciones basicas de un centeo veterinario de forma segura y eficiente.
