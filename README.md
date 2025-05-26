@@ -56,7 +56,6 @@ Lo representamos a t ravés del siguiente diagrama de casos de uso:
 
  ![alt text](diagrama.png)
 
-
 ## Contribución
 
 ¿Quieres colaborar en el desarrollo?
