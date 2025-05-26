@@ -73,7 +73,7 @@ Este proyecto esta subvencionado por el [Gobierno de españa](https://www.lamonc
 
 -------------------------------------------------------------------------------------------
 
-Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, consulta nuestra [documentacion tecnica]()
+Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, consulta nuestra [documentacion tecnica](documentacionTecnica)
 
 Otros organismos colaboradores:
 
