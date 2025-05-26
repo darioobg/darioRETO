@@ -40,7 +40,7 @@ Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interf
 
 A continuacion se detalla la funcion dentro del sistema cada uno de los usuarios:
 
-** Usuario**     **Funcionalidad**
+**Usuario     Funcionalidad**
 ______________________________________________________________________________
 Paciente        Solicita citas, accede a su historial, contacta con el medico.
 ______________________________________________________________________________
