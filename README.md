@@ -40,12 +40,15 @@ Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interf
 
 A continuacion se detalla la funcion dentro del sistema cada uno de los usuarios:
 
-**Usuario     Funcionalidad**
+**Usuario       Funcionalidad**
 ______________________________________________________________________________
+
 Paciente        Solicita citas, accede a su historial, contacta con el medico.
 ______________________________________________________________________________
+
 Veterinacrio    Gestiona citas, consulta historiales, emite recetas.
 ______________________________________________________________________________
-Administrador   Administra personal, informes y facturacion.
 
+Administrador   Administra personal, informes y facturacion.
+________________________________________________________________________________
 Lo representamos a t ravés del siguiente diagrama de casos de uso:
