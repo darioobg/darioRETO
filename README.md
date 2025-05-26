@@ -69,3 +69,5 @@ Lo representamos a t ravés del siguiente diagrama de casos de uso:
 ## Subvención
 
 Este proyecto esta subvencionado por el [Gobierno de españa](https://www.lamoncloa.gob.es/Paginas/index.aspx)
+
+-------------------------------------------------------------------------------------------
