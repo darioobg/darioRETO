@@ -37,3 +37,15 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 * Gestion de facturas.
 
 Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interfaz de usuario o consulta la documentacion del usuario incluida en el repositorio.
+
+A continuacion se detalla la funcion dentro del sistema cada uno de los usuarios:
+
+** Usuario**     **Funcionalidad**
+------------------------------------------------------------------------------
+Paciente        Solicita citas, accede a su historial, contacta con el medico.
+------------------------------------------------------------------------------
+Veterinacrio    Gestiona citas, consulta historiales, emite recetas.
+------------------------------------------------------------------------------
+Administrador   Administra personal, informes y facturacion.
+
+Lo representamos a t ravés del siguiente diagrama de casos de uso:
