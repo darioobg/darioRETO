@@ -18,7 +18,7 @@ El sistema de Gestión Veterinaria desarrollado por el alumnado del **IES MIGUEL
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 
 1. Clona el repositorio desde GitHub:
-    [git clone https://github.com/darioobg/darioRETO]
+    [git clone] (https://github.com/darioobg/darioRETO)
         
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, IntelliJ...).
 
