@@ -55,3 +55,17 @@ Lo representamos a t ravés del siguiente diagrama de casos de uso:
 
  ![alt text](diagrama.png)
 
+
+## Contribución
+
+¿Quieres colaborar en el desarrollo?
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (git checkout -b feature/tu-mejora).
+3. Realiza tus cambios y haz commit(git commit -am 'Agrega nueva funcionalidad').
+4. Haz push a la rama(git push origin feature/nueva-funcionalidad).
+5. Abre un pull request su revisión.
+
+## Subvención
+
+Este proyecto esta subvencionado por el [alt text](https://www.lamoncloa.gob.es/Paginas/index.aspx)
