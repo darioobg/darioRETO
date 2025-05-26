@@ -5,6 +5,6 @@
    * Índice
    * **I**ntroducción
    * **I**nsta**l**ación
-    Uso
-    Contribución
-    Subvención
+   * Uso
+   * Contribución
+   * Subvención
