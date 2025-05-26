@@ -53,5 +53,5 @@ Administrador   Administra personal, informes y facturacion.
 ________________________________________________________________________________
 Lo representamos a t ravés del siguiente diagrama de casos de uso:
 
- [alt text](diagrama.png)
+ ![alt text](diagrama.png)
 
