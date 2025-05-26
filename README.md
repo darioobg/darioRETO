@@ -18,7 +18,7 @@ El sistema de Gestión Veterinaria desarrollado por el alumnado del **IES MIGUEL
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 
 1. Clona el repositorio desde GitHub:
-    [git clone https://github.com/darioobg/darioRETO]
+    [git clone] (https://github.com/darioobg/darioRETO)
         
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, IntelliJ...).
 
@@ -28,12 +28,12 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 ## Uso
 
 * El sistema veterinario incluye las siguientes funcionalidades principales:
-    - Solicitud y gestion de citas.
-    - Acceso y consulta del historial clinico.
-    - Comunicacion entre pacientes y profesionales.
-    - Gestion de recetas electronicas. 
-    - Administracion del personal.
-    - Revision de informes.
-    - Gestion de facturas.
+    * Solicitud y gestion de citas.
+    * Acceso y consulta del historial clinico.
+    * Comunicacion entre pacientes y profesionales.
+    * Gestion de recetas electronicas. 
+    * Administracion del personal.
+    * Revision de informes.
+    * Gestion de facturas.
 
 Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interfaz de usuario o consulta la documentacion del usuario incluida en el repositorio.
